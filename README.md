@@ -14,7 +14,7 @@ Follow the steps below to set up and run the project locally:
 
 Clone this repository to your local machine using:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sahilc-pop/VRV-Security-assignment.git
 ```
 
 Replace `<repository-url>` with the actual URL of the repository.
